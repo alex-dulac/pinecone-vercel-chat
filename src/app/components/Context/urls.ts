@@ -15,4 +15,10 @@ export const urls = [{
   title: "Matisee Thybulle",
   seeded: false,
   loading: false,
+},
+{
+  url: "https://www.alexdulac.dev/plain.txt",
+  title: "Alex Dulac",
+  seeded: false,
+  loading: false,
 }]
